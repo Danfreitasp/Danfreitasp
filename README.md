@@ -10,7 +10,7 @@
 ---
 
 ### 📊 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danfreitasp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danfreitasp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=Danfreitasp&layout=compact&theme=tokyonight)
 ### 🛠️ Languages & Tools
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
