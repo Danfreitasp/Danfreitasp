@@ -8,6 +8,8 @@
   - 💬 Discord: **danielfrp**  
 
 ---
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danfreitasp&layout=compact&langs_count=6&theme=dark)
 
 ### 🛠️ Languages & Tools
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
