@@ -25,4 +25,3 @@
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danfreitasp&layout=compact&langs_count=6&theme=dark&cache_seconds=1800)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danfreitasp&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
