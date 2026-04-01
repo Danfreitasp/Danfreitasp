@@ -23,4 +23,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danfreitasp&layout=compact&langs_count=6&theme=dark&cache_seconds=1800)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danfreitaso)](https://github.com/anuraghazra/github-readme-stats)
