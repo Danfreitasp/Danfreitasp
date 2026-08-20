@@ -1,26 +1,42 @@
-# 👋 Hi, I’m @Danfreitasp  
+# Olá, eu sou Daniel Pinto 👋
 
-- 👀 I’m interested in **Software Development & Web Technologies**  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, C**  
-- 🎓 Software Engineering Student  
-- 📫 How to reach me:  
-  - ✉️ Email: **danfreitasp@gmail.com**  
-  - 💬 Discord: **danielfrp**  
+Estudante de Engenharia de Software e desenvolvedor de soluções voltadas à organização, automação e produtividade.
 
----
+Atualmente, meu principal projeto é um CRM desenvolvido a partir de necessidades operacionais reais do mercado de crédito consignado.
 
-### 🚀 Currently Learning
-![HTML](https://img.shields.io/badge/HTML5-Learning-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-Learning-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Learning-lightblue?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Learning-00599C?style=for-the-badge&logo=c&logoColor=white)
+## Projeto principal
 
-### 💻 Languages & Tools
-![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### [CRM Consignado](https://github.com/Danfreitasp/crm-consignado)
 
----
+Sistema de gestão para centralizar clientes, propostas e rotinas de atendimento.
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danfreitasp&theme=tokyonight)
+- Funil Kanban configurável
+- Gestão de clientes e propostas
+- Portabilidade e refinanciamento vinculados
+- Agenda de retornos e acompanhamento diário
+- Dashboard de produção e comissões
+- Simulador INSS e gerador de mensagens
+- Importação e exportação de planilhas
+- Histórico, notificações e backups locais
+
+O projeto utiliza **Python, Flask, SQLite, Jinja, HTML, CSS e JavaScript**. O repositório público funciona como vitrine; o código operacional e os dados permanecem privados.
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Também estudo e desenvolvo projetos com C, C#, Java e ABAP.
+
+## Contato
+
+- E-mail: **danfreitasp@gmail.com**
+- Discord: **danielfrp**
+
+## Estatísticas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=danfreitasp&theme=tokyonight)
