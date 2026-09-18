@@ -49,11 +49,3 @@ Também estudo e desenvolvo projetos com C, C#, Java e ABAP.
 
 - E-mail: **danfreitasp@gmail.com**
 - Discord: **danielfrp**
-
-## Estatísticas
-
-O GitHub exibe abaixo desta apresentação a atividade de contribuições e os projetos do perfil. Para consultar os dados diretamente:
-
-- [Atividade e contribuições](https://github.com/Danfreitasp?tab=overview)
-- [Repositórios públicos](https://github.com/Danfreitasp?tab=repositories)
-- [Projetos fixados](https://github.com/Danfreitasp?tab=overview)
