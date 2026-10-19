@@ -1,6 +1,6 @@
 # Olá, eu sou Daniel Pinto 👋
 
-Estudante de Engenharia de Software e desenvolvedor de soluções voltadas à organização, automação e produtividade.
+Estudante de Engenharia de Software, formado em Administração de Empresas e desenvolvedor de soluções voltadas à organização, automação e produtividade.
 
 Atualmente, meus principais projetos são ferramentas voltadas à gestão operacional e à produtividade no atendimento.
 
