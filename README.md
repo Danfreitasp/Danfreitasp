@@ -21,7 +21,7 @@ Sistema de gestão para centralizar clientes, propostas e rotinas de atendimento
 
 O projeto utiliza **Python, Flask, SQLite, Jinja, HTML, CSS e JavaScript**. O repositório público funciona como vitrine; o código operacional e os dados permanecem privados.
 
-### [Central WhatsApp Web](https://github.com/Danfreitasp/central-whatsapp-web-updates)
+### [Central WhatsApp Web](https://github.com/Danfreitasp/central-whatsapp-web)
 
 Aplicativo para centralizar múltiplas sessões do WhatsApp Web e organizar operações de atendimento e disparos.
 
@@ -31,7 +31,7 @@ Aplicativo para centralizar múltiplas sessões do WhatsApp Web e organizar oper
 - Busca global por contatos, telefones e mensagens
 - Histórico, notificações e atualizações automáticas
 
-O repositório público disponibiliza instaladores e metadados de atualização. O código-fonte e os dados operacionais permanecem privados.
+O repositório público disponibiliza o código-fonte. Os instaladores e metadados de atualização ficam no [repositório de releases](https://github.com/Danfreitasp/central-whatsapp-web-updates).
 
 ## Tecnologias
 
